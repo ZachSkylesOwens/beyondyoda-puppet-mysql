@@ -1,3 +1,0 @@
-class beyondyoda_mysql {
-
-}
