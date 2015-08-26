@@ -1,1 +1,3 @@
-# Placeholder
+class beyondyoda_mysql {
+
+}
